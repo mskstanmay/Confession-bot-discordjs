@@ -1,0 +1,7 @@
+{
+	"_comment" :"You can get the token from the developer portal, The confessionchannelid & logchannelid from the server, The cooldown time is miliseconds !",
+	"token": "YOUR TOKEN HERE",
+	"confessionchannelid":"CHANNEL ID WHERE YOU WANT THE CONFESSIONS TO BE SENT",
+	"logchannelid": "CHANNEL ID WHERE YOU WANT THE LOGS TO BE SENT",
+	"confessioncooldown" : 900000
+}

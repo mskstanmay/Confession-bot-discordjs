@@ -1,0 +1,18 @@
+{
+  "name": "confessionbot_single",
+  "version": "1.0.0",
+  "description": "simple bot just replace the id of the channel and token :)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "MsksTanmaY",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  }
+}
