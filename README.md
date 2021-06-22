@@ -19,5 +19,5 @@ npm install
 | Package | Description | NPM Status
 |--- |--- |---
 | [Discord.js](https://www.npmjs.com/package/discord.js) | discord.js is a powerful [Node.js](https://nodejs.org) module that allows you to easily interact with the [Discord API](https://discord.com/developers/docs/intro) |[![NPM Badge](https://img.shields.io/npm/dt/discord.js.svg?maxAge=3600)](https://www.npmjs.com/package/discord.js) 
-| [Quick.db](https://www.npmjs.com/package/quickdb) | An easy to use JSON file database | [![NPM Badge](https://img.shields.io/npm/dt/quick.db.svg?maxAge=3600)](https://www.npmjs.com/package/quickdb) 
+| [Quick.db](https://www.npmjs.com/package/quickdb) | Quick.db is an open-source package meant to provide an easy way for beginners and people of all levels to access & store data in a low to medium volume environment. All data is stored persistently via better-sqlite3 and comes way various other quality-of-life features. | [![NPM Badge](https://img.shields.io/npm/dt/quick.db.svg?maxAge=3600)](https://www.npmjs.com/package/quickdb) 
 | [Ms](https://www.npmjs.com/package/ms) | Package to easily convert various time formats to milliseconds | [![NPM Badge](https://img.shields.io/npm/dt/ms.svg?maxAge=3600)](https://www.npmjs.com/package/ms) 
