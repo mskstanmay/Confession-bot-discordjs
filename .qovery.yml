@@ -1,0 +1,15 @@
+---
+application:
+  name: "confession-bot-discordjs"
+  project: "testingmydcbot"
+  organization: "QoveryCommunity"
+databases:
+- type: "MONGODB"
+  name: "testbot"
+  version: "4.4"
+routers:
+- name: "main-confession-bot-discordjs"
+  routes:
+  - application_name: "confession-bot-discordjs"
+    paths:
+    - "/*"
